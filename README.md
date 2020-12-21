@@ -5,7 +5,9 @@ Language of choice is python
 
 There are three files
 a) Data preparation file- Covid_19_Data_Prep_Allcountries.ipynb
+
 b) Exploratory Analysis- Covid__19 EDA.py
+
 c) Predictions- covid_19_timeseries_prediction.py
 
 Run the files in that order
