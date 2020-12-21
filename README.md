@@ -1,7 +1,8 @@
-# Covid_19_predictions
+# Covid_19 Death Cases predictions per country
+
 We are trying to predict deaths caused by Covid 19 per country cummulatively into the future.
 
-Language of choice is python
+### Language of choice is python
 
 ## There are three files
 
