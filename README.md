@@ -10,9 +10,9 @@ a) Data preparation file- Covid_19_Data_Prep_Allcountries.ipynb
 
 b) Exploratory Analysis- Covid__19 EDA.py
 
-c) Predictions- covid_19_timeseries_prediction.py
+c) Predictions- covid_19_predictions.py
 
-Run the files in that order
+Run the files in that order, however the Exploratory Analysis can be skipped and the predictions file is run since they donot depend on each other.
 
 Let us crack on
 
